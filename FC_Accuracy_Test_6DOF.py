@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 26 22:17:52 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used for 3D visualization of training and test points for robotic arm with 6 DOF.
