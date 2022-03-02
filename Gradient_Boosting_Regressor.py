@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 26 21:58:06 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 # This code is used for training and testing Gradient Boosting Regressor model for 3 and 6 DOF 
 
