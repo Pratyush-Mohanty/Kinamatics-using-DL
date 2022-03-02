@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 31 23:31:01 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used to clear the dataset from duplicates (points that are very close). This method 
