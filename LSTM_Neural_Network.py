@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 26 22:07:37 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used for training and testing the LSTM neural network model for 3 and 6 DOF 
