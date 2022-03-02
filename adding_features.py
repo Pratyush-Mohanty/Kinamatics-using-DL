@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 31 23:35:01 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used for generating new features as radius vector, orientation and ect...
