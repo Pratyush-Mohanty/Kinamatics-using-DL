@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 26 22:27:53 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used for training and testing Sequential Neural Network model for 3 and 6 DOF
