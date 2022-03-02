@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 10:23:34 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used for creating data set for 3DOF robotic arm with use of direct kinematic.
