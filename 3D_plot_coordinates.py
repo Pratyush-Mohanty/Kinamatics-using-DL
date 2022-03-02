@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 30 15:38:14 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 # This code is used to vizualize the robot workspace (the dataset).
