@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 24 17:31:33 2019
 
-@author: Stefan Borkovski
+@author: Pratyush Mohanty
 """
 
 ### Forward kinematic - Denavit Hartenberg (DH) parameters - Test
